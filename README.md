@@ -1,6 +1,6 @@
 # README
 
-demo app 
+#demo app 
 
 Things you may want to cover:
 
